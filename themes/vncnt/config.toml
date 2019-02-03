@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://angelabad.me/"
 # include content marked as draft
 buildDrafts = false
 # include content with publishdate in the future
@@ -12,8 +12,8 @@ enableRobotsTXT = true
 editor = "nano"
 languageCode = "en"
 language = "en"
-theme = "vncnt-hugo"
-title = "John Doe · Landing Page"
+theme = "vncnt"
+title = "Angel Abad · Page"
 
 [blackfriday]
 extensions = ["hardLineBreak"]
@@ -24,7 +24,7 @@ posts = "posts/:slug/"
 
 [params]
 author = "Angel Abad"
-description = "Landing Page"
+description = "Angel Abad"
 bio = "Devops / Systems Engineer.<br/>Debian Developer<br/>Ubuntu MOTU Developer."
 avatar = "img/angel1.png"
 favicon = "img/favicon.ico"

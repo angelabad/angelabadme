@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://angelabad.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Angel Abad"
 
 theme = "vncnt"
 
