@@ -27,7 +27,7 @@ Sole creator and manager in charge of a fully autoscaled and fault tolerant plat
 
 Part of a team in charge of administering a large fleet of servers. In charge of the configuration and maintenance of bbdd, email, web, git, etc. Using Puppet and Debian servers, as well as monitoring tools such as Nagios. Managing bare-metal servers to share files over Samba and NFS.
 
-* Configure and manage databases (Postgres y Mysql)
+* Configure and manage databases (Postgres and Mysql)
 * Use Chef and Puppet to manage configurations & settings
 * Instal and configure high capacity fault tolerant email servers (Postfix)
 * Configuring Web servers and load balancers (Apache and Nginx)
