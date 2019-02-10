@@ -2,10 +2,9 @@
 title: CV
 ---
 # Angel Abad
-Devops with more than 15 years of experience implementing and maintaining large scale servers. Expert in Linux  (Debian and Ubuntu above all). Experience in virtual environments, cloud computing, load balancing, autoscaling, monitoring… Extensive knowledge in infrastructure such as code, Terraform , AWS Services, Google Cloud, Docker, Kubernetes (among others) and knowledge about scripting languages and Golang.
+Devops with more than 15 years of experience implementing and maintaining large scale servers. Expert in Linux (Debian and Ubuntu above all). Experience in virtual environments, cloud computing, load balancing, autoscaling, monitoring… Extensive knowledge in infrastructure as code, Terraform , AWS Services, Google Cloud, Docker, Kubernetes (among others) and knowledge about scripting languages and Golang.
 
 Experienced and comfortable working in teams and groups as well as telecommuting and working from a distance for many years.
-
 
 {{% grid %}}
 
@@ -14,9 +13,9 @@ Experienced and comfortable working in teams and groups as well as telecommuting
 ###### *January 2011 - Present*
 ### Ludei - Devops Engineer
 
-Sole creator and manager in charge of a fully autoscaling platform tolerant to failure with thousands of users. Architect of backend / frontend / workers, created using infrastructure such as code using Terraform, Cloudformation, packer and ansible as primary tools; with technologies such as AWS: vpc, ec2, opsworks and sqs among others. Everything totally monitored using Cloudwatch, Pagerduty and Icinga2.
+Sole creator and manager in charge of a fully autoscaled and fault tolerant platform with thousands of users. Architect of backend / frontend / workers, created using infrastructure such as code using Terraform, Cloudformation, packer and ansible as primary tools; with technologies such as AWS: vpc, ec2, opsworks and sqs among others. Everything totally monitored using Cloudwatch, Pagerduty and Icinga2.
 
-* Implement and manage infrastructure based on Packer, Ansible y Terraform
+* Implement and manage infrastructure based on Packer, Ansible and Terraform
 * Manage the entire Amazon AWS platform: Iam, Api Gateways, Lambdas, VPCs, Sqs,  load balancers, auto-scaling
 * Monitor the entire infrastructure using New Relic, Pagerduty, Cloudwatch and Icinga2
 * Control Security for the entire system and platform: Access control, ssl, firewalls
