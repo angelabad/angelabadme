@@ -52,6 +52,13 @@ Official MOTU Developer collaborating on the management of my own packages as we
 
 https://launchpad.net/~angelabad
 
+## Certifications
+
+* Linux Professional Institute LPIC-2 (Jun 2013)
+* Suse CLA 11 (May 2010)
+* Suse 11 Tech Spec (May 2010)
+
+
 {{% /column %}}
 
 {{% column -span-cols-4 -p-left-3 %}}
