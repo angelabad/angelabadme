@@ -9,34 +9,27 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <meta name="Description" content="resume of an experienced, professional devops / systemes engineer looking for work.">
+    <meta name="keywords" content="resume, aws, devops, terraform, packer, ansible, ec2, kubernetes, docker, monitoring, golang, ec2, auto-scaling, apache, nginx">
     {{ .Hugo.Generator }}
-    {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
-    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
-    {{ else }}
-      <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-    {{ end }}
+    <meta name="robots" content="index, follow">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400i,500,800" rel="stylesheet">
-    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-      <link href='{{ "css/belmu.min.css" | absURL }}?{{ now.UnixNano }}' rel='stylesheet' type="text/css" />
-      <link href='{{ "css/main.min.css" | absURL }}?{{ now.UnixNano }}' rel='stylesheet' type="text/css" />
-    {{ else }}
-      <link href='{{ "css/belmu.css" | absURL }}?{{ now.UnixNano }}' rel='stylesheet' type="text/css" />
-      <link href='{{ "css/main.css" | absURL }}?{{ now.UnixNano }}' rel='stylesheet' type="text/css" />
-    {{ end }}
+    <link href='{{ "css/belmu.min.css" | absURL }}?{{ now.UnixNano }}' rel='stylesheet' type="text/css" />
+    <link href='{{ "css/main.min.css" | absURL }}?{{ now.UnixNano }}' rel='stylesheet' type="text/css" />
     
     {{ block "favicon" . }}
       {{ partial "site-favicon.html" . }}
     {{ end }}
 
+    {{/*
     {{ if .RSSLink }}
       <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
       <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
     {{ end }}
+    */}}
 
-    {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-      {{ template "_internal/google_analytics_async.html" . }}
-    {{ end }}
+    {{ template "_internal/google_analytics_async.html" . }}
+
     <link href="https://fonts.googleapis.com/css?family=Fira+Sans:200,400,400i,600,900" rel="stylesheet">
   </head>
 

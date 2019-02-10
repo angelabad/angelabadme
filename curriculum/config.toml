@@ -8,3 +8,5 @@ paginate = 3
 theme = "winning"
 publishDir = "../docs/cv"
 
+googleAnalytics = "UA-133867173-1"
+
