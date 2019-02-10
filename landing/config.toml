@@ -5,4 +5,4 @@ title = "Angel Abad"
 theme = "vncnt"
 
 # For github pages
-publishDir = "docs"
+publishDir = "../docs"
