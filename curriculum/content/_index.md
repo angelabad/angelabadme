@@ -94,10 +94,5 @@ https://launchpad.net/~angelabad
 ## Hobbies/Interests
 Fast learner interested in and eager to learn about many topics, avid reader and comic lover. 
 
-{{% printonly %}}
-##   References
-Please contact me at [angelabad@gmail.com](mailto:angelabad@gmail.com) for references.
-{{% /printonly %}}
-
 {{% /column %}}
 {{% /grid %}}
