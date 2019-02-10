@@ -26,7 +26,7 @@ Sole creator and manager charge of a fully autoscaling platform tolerant to fail
 * Configure and maintain entire office network and and servers.
 
 ###### *September 2000 - October 2009*
-### Grupo Ikust - Principal System Administrator
+### Grupo Ikusnett - Principal System Administrator
 
 Part of a team in charge of administering a large fleet of servers. In charge of the configuration and maintenance of bbdd, email, web, git, etc. Using Puppet and Debian servers, as well as monitoring tools such as Nagios. Managing bare-metal servers to share files over Samba and NFS.
 
@@ -36,6 +36,21 @@ Part of a team in charge of administering a large fleet of servers. In charge of
 * Configuring Web servers and load balancers (Apache and Nginx)
 * Server virtualization using Xen
 * File Servers Samba and NFS
+
+## Volunteer Experience
+###### *February 2009 - Present*
+### Debian - Developer
+
+Official Debian Developer in charge of various packages and highly active in the Debian Perl Team.
+
+https://qa.debian.org/developer.php?login=angel
+
+###### *December 2010 - Present*
+### Ubuntu - MOTU Developer
+
+Official MOTU Developer collaborating on the management of my own packages as well as managing and triaging bugs.
+
+https://launchpad.net/~angelabad
 
 {{% /column %}}
 
