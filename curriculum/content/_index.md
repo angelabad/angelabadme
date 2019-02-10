@@ -61,8 +61,8 @@ https://launchpad.net/~angelabad
 
 {{% column -span-cols-4 -p-left-3 %}}
 #### Info
-  * angelabad@gmail.com
-  * angel@debian.org
+  * [angelabad@gmail.com](mailto:angelabad@gmail.com)
+  * [angel@debian.org](mailto:angel@debian.org)
   * https://angelabad.me
 
 #### Fluent with
