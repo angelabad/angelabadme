@@ -1,0 +1,10 @@
+baseurl = "https://angelabad.me/cv"
+title = "Angel Abad"
+author = "Angel Abad"
+copyright = "Copyright © 2019, Angel Abad; all rights reserved."
+canonifyurls = true
+paginate = 3
+
+theme = "winning"
+publishDir = "../docs/cv"
+
