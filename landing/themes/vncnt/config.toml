@@ -27,7 +27,7 @@ author = "Angel Abad"
 description = "resume of an experienced, professional devops / systemes engineer looking for work."
 keywords = "resume, aws, devops, terraform, packer, ansible, ec2, kubernetes, docker, monitoring, golang, ec2, auto-scaling, apache, nginx"
 bio = "Devops / Systems Engineer.<br/>Debian Developer<br/>Ubuntu MOTU Developer.<br/><a href=\"https://angelabad.me/cv\">Curriculum</a>"
-avatar = "img/angel1.png"
+avatar = "img/angel.png"
 favicon = "img/favicon.ico"
 
 	[params.contact]
