@@ -15,11 +15,11 @@ Experienced and comfortable working in teams and groups as well as telecommuting
 
 Sole creator and manager in charge of a fully autoscaled and fault tolerant platform with thousands of users. Architect of backend / frontend / workers, created using infrastructure as code using Terraform, Cloudformation, packer and ansible as primary tools; with technologies such as AWS: vpc, ec2, opsworks and sqs among others. Everything totally monitored using Cloudwatch, Pagerduty and Icinga2.
 
-* Implement and manage infrastructure based on Packer, Ansible and Terraform
-* Manage the entire Amazon AWS platform: Iam, Api Gateways, Lambdas, VPCs, Sqs,  load balancers, auto-scaling
-* Monitor the entire infrastructure using New Relic, Pagerduty, Cloudwatch and Icinga2
-* Control Security for the entire system and platform: Access control, ssl, firewalls
-* Configure and Manage git repositories, hosted on bitbucket
+* Implement and manage infrastructure based on Packer, Ansible and Terraform.
+* Manage the entire Amazon AWS platform: Iam, Api Gateways, Lambdas, VPCs, Sqs,  load balancers, auto-scaling...
+* Monitor the entire infrastructure using New Relic, Pagerduty, Cloudwatch and Icinga2.
+* Control Security for the entire system and platform: Access control, ssl, firewalls...
+* Configure and manage git repositories, hosted on bitbucket.
 * Configure and maintain entire office network and servers.
 
 ###### *September 2000 - October 2009*
@@ -27,12 +27,12 @@ Sole creator and manager in charge of a fully autoscaled and fault tolerant plat
 
 Part of a team in charge of administering a large fleet of servers. In charge of the configuration and maintenance of bbdd, email, web, git, etc. Using Puppet and Debian servers, as well as monitoring tools such as Nagios. Managing bare-metal servers to share files over Samba and NFS.
 
-* Configure and manage databases (Postgres and Mysql)
-* Use Chef and Puppet to manage configurations & settings
-* Instal and configure high capacity fault tolerant email servers (Postfix)
-* Configuring Web servers and load balancers (Apache and Nginx)
-* Server virtualization using Xen
-* File Servers Samba and NFS
+* Configure and manage databases (Postgres and Mysql).
+* Use Chef and Puppet to manage configurations and settings.
+* Instal and configure high availability fault tolerant email servers (Postfix).
+* Configuring web servers and load balancers (Apache and Nginx).
+* Server virtualization using Xen.
+* File Servers Samba and NFS.
 
 ## Volunteer Experience
 ###### *February 2009 - Present*
