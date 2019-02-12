@@ -60,26 +60,28 @@ https://launchpad.net/~angelabad
 
 {{% column -span-cols-4 -p-left-3 %}}
 #### Info
+  * https://angelabad.me
   * [angelabad@gmail.com](mailto:angelabad@gmail.com)
   * [angel@debian.org](mailto:angel@debian.org)
-  * https://angelabad.me
 
 #### Fluent with
   * Devops
-  * Terraform
-  * Packer
   * Amazon AWS
   * Monitoring
+  * Terraform
+  * Packer
+  * Docker
+  * Ansible
 
 #### Familiar with
+  * Kubernetes
+  * Google Cloud
   * Perl
   * Golang
-  * Game Development
 
 #### Interested in
-  * Web components
-  * Svelte + Sapper
-  * WebVR / A-Frame
+  * Web Development
+  * Game Development
 
 
 #### Other Info
