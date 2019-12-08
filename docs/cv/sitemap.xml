@@ -3,17 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://angelabad.me/cv/categories/</loc>
+  </url>
+  
+  <url>
     <loc>https://angelabad.me/cv/</loc>
   </url>
   
   <url>
-    <loc>https://angelabad.me/cv/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://angelabad.me/cv/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
