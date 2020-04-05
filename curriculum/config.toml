@@ -10,3 +10,5 @@ publishDir = "../docs/cv"
 
 googleAnalytics = "UA-133867173-1"
 
+[markup.goldmark.renderer]
+unsafe= true

@@ -6,3 +6,6 @@ theme = "vncnt"
 
 # For github pages
 publishDir = "../docs"
+
+[markup.goldmark.renderer]
+unsafe= true
