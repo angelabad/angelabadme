@@ -18,3 +18,8 @@ cd -
 echo "********************************************"
 echo "* REMEMBER TO BUILD YOUR PDF BEFORE UPLOAD *"
 echo "********************************************"
+echo "* Put it on curriculum/static/cv.pdf       *"
+echo "********************************************"
+echo "* And re-run this script                   *"
+echo "********************************************"
+

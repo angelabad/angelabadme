@@ -66,18 +66,20 @@ https://launchpad.net/~angelabad
 
 #### Fluent with
   * Devops
+  * Kubernetes
   * Amazon AWS
   * Monitoring
   * Terraform
   * Packer
   * Docker
   * Ansible
+  * Bash
 
 #### Familiar with
-  * Kubernetes
+  * Blockchain
   * Google Cloud
-  * Perl
   * Golang
+  * Perl
 
 #### Interested in
   * Web Development
