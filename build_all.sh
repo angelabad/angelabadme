@@ -4,7 +4,7 @@
 cd curriculum
 # run hugo to create pdf from updated content
 hugo
-#./build_pdf.sh
+./build_pdf.sh
 # run hugo again to install new created pdf
 hugo
 cd -
@@ -13,13 +13,4 @@ cd -
 cd landing
 hugo
 cd -
-
-## NOTICE
-echo "********************************************"
-echo "* REMEMBER TO BUILD YOUR PDF BEFORE UPLOAD *"
-echo "********************************************"
-echo "* Put it on curriculum/static/cv.pdf       *"
-echo "********************************************"
-echo "* And re-run this script                   *"
-echo "********************************************"
 
