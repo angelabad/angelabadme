@@ -10,7 +10,15 @@ Experienced and comfortable working in teams and groups as well as telecommuting
 
 {{% column -span-cols-6 -m-right-2 %}}
 ## Professional Experience
-###### *January 2011 - Present*
+###### *September 2019 - Present*
+### Altran - Devops Senior Engineer
+
+Setup and configuration, deployment and maintenance of large digital 
+infraestructures in the cloud. Mostly using these thecnologies: 
+Kubernetes, Terraform and AWS. As well as Pormetheus, Traefik, Packer,
+Cloudformation...
+
+###### *January 2011 - February 2019*
 ### Ludei - Devops Engineer
 
 Sole creator and manager in charge of a fully autoscaled and fault tolerant platform with thousands of users. Architect of backend / frontend / workers, created using infrastructure as code using Terraform, Cloudformation, packer and ansible as primary tools; with technologies such as AWS: vpc, ec2, opsworks and sqs among others. Everything totally monitored using Cloudwatch, Pagerduty and Icinga2.
