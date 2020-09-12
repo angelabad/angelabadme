@@ -1,4 +1,12 @@
 
+<a name="v0.2.1"></a>
+## [v0.2.1](https://github.com/angelabad/angelabadme/compare/v0.2.0...v0.2.1) (2020-09-12)
+
+### Features
+
+* **resume:** Add Terraform certification
+
+
 <a name="v0.2.0"></a>
 ## [v0.2.0](https://github.com/angelabad/angelabadme/compare/v0.1.1...v0.2.0) (2020-08-22)
 
