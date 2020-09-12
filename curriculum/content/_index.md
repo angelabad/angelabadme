@@ -59,6 +59,7 @@ https://launchpad.net/~angelabad
 
 ## Certifications
 
+* HashiCorp Certified: Terraform Associate (May 2020)
 * Linux Professional Institute LPIC-2 (Jun 2013)
 * Suse CLA 11 (May 2010)
 * Suse 11 Tech Spec (May 2010)
